@@ -12,9 +12,11 @@ for sound localization with wireless remote control.
 <img width="1013" height="444" alt="image" src="https://github.com/user-attachments/assets/4a8b4e47-6d84-4179-9602-249e51362605" />
 
 **Main Node (UNO1)** — detects sound, calculates angle, aims motorized spotlight  
+
 <img width="1095" height="584" alt="image" src="https://github.com/user-attachments/assets/618eff93-ddc9-4f43-bb4e-e12486f1d370" />
 
 **User Node (UNO2)** — remote control via RF (LCD, joystick, touch sensor)
+
 <img width="404" height="354" alt="image" src="https://github.com/user-attachments/assets/7173daef-490e-46e8-a79c-0244fc5f7ee8" />
 
 
